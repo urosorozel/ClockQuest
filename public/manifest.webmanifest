@@ -1,0 +1,10 @@
+{
+  "name": "ClockQuest",
+  "short_name": "ClockQuest",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9f7f4",
+  "theme_color": "#fff6e5",
+  "description": "Learn to read time with playful lessons and practice.",
+  "icons": []
+}
